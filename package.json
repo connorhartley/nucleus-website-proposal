@@ -1,0 +1,10 @@
+{
+  "name": "nucleus-website",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A proposal of a new Nucleus Website.",
+  "main": "index.js",
+  "repository": "https://github.com/connorhartley/nucleus-website-proposal",
+  "author": "Connor Hartley <vectrixu@gmail.com>",
+  "license": "MIT"
+}
